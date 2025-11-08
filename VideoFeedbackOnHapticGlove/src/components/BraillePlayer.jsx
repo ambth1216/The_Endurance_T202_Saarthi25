@@ -139,7 +139,7 @@ const sendTextToArduino = useCallback(async (text) => {
 
   return (
     <div className="player-container">
-      <h1>Braille Subtitle Player</h1>
+      <h1>Let's Learn</h1>
       <p>Connect your Arduino, then click the button below.</p>
       
       <div className="button-group">
